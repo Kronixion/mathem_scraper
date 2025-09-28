@@ -1,0 +1,15 @@
+# Python virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Scrapy output files
+scraper/*.jsonl
+scraper/exports/
+
+# IDE/editor configs
+*.swp
+*.swo
+.DS_Store
